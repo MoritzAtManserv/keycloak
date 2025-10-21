@@ -11,7 +11,8 @@ includes a single realm, called `master`. Use this realm only for managing {proj
 Use these steps to create the first realm.
 
 . Open the {links-admin-console}.
-. Click *Create Realm* next to *Current realm*.
+. Navigate to *Manage realms* in the left-hand menu
+. Click *Create Realm* next to the search box.
 . Enter `myrealm` in the *Realm name* field.
 . Click *Create*.
 
